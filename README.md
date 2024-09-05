@@ -1,4 +1,4 @@
-# yash-mohta-wasserstoff-FullstackInternTask
+# Weather App
 
 To run the code:-
 
